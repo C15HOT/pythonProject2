@@ -26,7 +26,8 @@ urlpatterns = [
     path('profiles/register/', UserFormView.as_view()),
     path('profiles/<int:profile_id>/edit/', UserEditFormView.as_view()),
     path('users/', include('app_users.urls')),
-    path('employment/', include('app_employment.urls'))
+    path('employment/', include('app_employment.urls')),
+    path('logic/', include('app_logic.urls'))
 
 
 

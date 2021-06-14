@@ -29,6 +29,7 @@
         <option value="$MODULE_DIR$/board/app_employment/templates" />
         <option value="$MODULE_DIR$/board/app_media/templates" />
         <option value="$MODULE_DIR$/board/app_goods/templates" />
+        <option value="$MODULE_DIR$/board/app_logic/templates" />
       </list>
     </option>
   </component>
